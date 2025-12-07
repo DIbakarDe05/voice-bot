@@ -11,5 +11,5 @@ A simple voice-to-voice chatbot that records speech, sends the transcribed text 
 ## Requirements
 - Python 3.8+
 - Libraries: pyttsx3, SpeechRecognition, google-generativeai, (PyAudio or an alternative for microphone access)
-- A valid generative AI API key (do not hardcode into the repo)
+- A valid generative AI API key 
 
